@@ -1,1 +1,14 @@
+# IDE files
 *.iml
+.idea/
+out/
+
+# Java class files
+*.class
+
+# Build systems
+target/         # Maven
+build/          # Gradle
+
+# Logs
+*.log
