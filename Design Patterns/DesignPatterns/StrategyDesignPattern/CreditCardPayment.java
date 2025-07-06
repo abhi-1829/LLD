@@ -9,6 +9,6 @@ public class CreditCardPayment implements PaymentStrategy{
 
     @Override
     public void pay(int amount) {
-        System.out.println("Payed " + amount + " via Credit Card"); 
+        System.out.println("Payed " + amount + " via Credit Card");
     }
 }
