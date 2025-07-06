@@ -1,6 +1,6 @@
 package DesignPatterns.ObserverPattern;
 
-public class ObseverPatternDemo {
+public class ObserverPatternDemo {
     public static void main(String[] args) {
         
     }
